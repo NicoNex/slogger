@@ -1,6 +1,10 @@
 # slogger
 Simple Logger - Probably the most beautiful logging library you've ever seen.
 
+## Back story
+I had a very complex data flow to debug at work so I came up with this logging class to help me find even the most insidious bugs.
+I wanted a simple-to-use logging library that allowed me to build very clear log messages even from many places in the code.
+
 ## Usage
 Using SLogger is extremely easy.
 To create a log message in one place you can do like this:
